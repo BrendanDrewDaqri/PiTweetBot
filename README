@@ -1,0 +1,28 @@
+#PiTweetBot
+
+Simple Raspberry Pi E-Ink Tweet Bot. 
+
+What will this eventually include?
+
+1) Library to interface with MPicoSys TCM-P441-230v1.1 over pseudo-SPI 
+2) Stuff to suck down tweets
+3) Stuff to render tweets as 1 bit images (because E-ink)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
